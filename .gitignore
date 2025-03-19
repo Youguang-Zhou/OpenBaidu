@@ -1,0 +1,11 @@
+# python caches
+__pycache__/
+
+# MacOS file
+.DS_Store
+
+# log files
+logs/
+
+# env file
+.env
